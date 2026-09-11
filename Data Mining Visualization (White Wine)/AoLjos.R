@@ -3,6 +3,7 @@ library(tidyr)
 library(reshape2)
 library(randomForest)
 library(GGally)
+library(dplyr)
 
 # Set working directory
 getwd()
